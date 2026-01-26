@@ -1,4 +1,5 @@
-# Prueba-T-cnica---Desarrollador-Backend-Python-FastAPI-
+# Python-FastAPI-with-JWT-And-PostgreSQL
+
 # Instrucciones de ejecución  
 1. Clonar el repositorio.
 2. Crear y activar entorno virtual.  
